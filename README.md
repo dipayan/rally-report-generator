@@ -9,13 +9,17 @@ These contains programs to generate rally reports and send them through email
 ## Installation
 
 * Step 1 :
-
 ```
 pip3 install -r requirements.txt
 ```
+* Step 3 :
+
+Setup a new API Key for Rally REST API by navigating to https://rally1.rallydev.com/login/accounts/index.html#/keys
+
 * Step 2 :
 
 Fill up the settings.cfg file according to the respective project.
+
 
 ## Run the program
 
